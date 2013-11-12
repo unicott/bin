@@ -12,3 +12,4 @@ Python utility script for downscaling the XXHDPI images for Android development
 ### Installation
 
 ... TBA
+
