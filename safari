@@ -1,0 +1,7 @@
+#!/bin/sh
+if [[ $1 == *http://* ]]
+then
+  open -a /Applications/Safari.app $1
+else
+  open -a /Applications/Safari.app http://$1
+fi
